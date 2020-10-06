@@ -1,1 +1,3 @@
 This is sample.txt. I should write a short message in it.
+
+This is the edited part. I have been awake all night, awake all day. All I want is a peaceful place to sleep.
